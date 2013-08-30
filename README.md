@@ -1,4 +1,4 @@
-emberDenver
-===========
+box
+===
 
-Community project for the Denver Ember.js meetup
+this is a first attempt at rearchitecting the lunchbox player—it is simply a sandbox for now...
