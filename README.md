@@ -1,6 +1,6 @@
 Community project for the Denver Ember.js meetup
 
-#etting Started#
+#Getting Started#
 
 ###OpenCampaignData site###
 
